@@ -2,14 +2,15 @@
     <h1>💻 DESARROLLADOR FULL STACK 💻</h1>
 </div>
 
+<div align="center">
+    <a href="https://www.instagram.com/damian_gl3/"><img src="https://img.shields.io/badge/instagram%20@damian_gl3-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/damian.lopez.03/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://x.com/Damian_GL3/"><img src="https://img.shields.io/badge/twitter%20@damian_gl3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
 
+<br>
 
-- <a href="https://www.instagram.com/damian_gl3/"><img src="https://img.shields.io/badge/instagram%20@damian_gl3-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/damian.lopez.03/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://x.com/Damian_GL3/"><img src="https://img.shields.io/badge/twitter%20@damian_gl3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-
-
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
@@ -31,6 +32,11 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
+</div>
+
+
+
+
 
 
 
@@ -46,4 +52,4 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
-⭐️ From [saviomartin](https://github.com/saviomartin)
+
