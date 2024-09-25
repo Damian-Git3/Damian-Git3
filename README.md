@@ -5,7 +5,8 @@
 <div align="center">
     <a href="https://www.instagram.com/damian_gl3/"><img src="https://img.shields.io/badge/instagram%20@damian_gl3-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/damian.lopez.03/"><img src="https://img.shields.io/badge/facebook%20@fernando_gl-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="https://x.com/Damian_GL3/"><img src="https://img.shields.io/badge/twitter%20@damian_gl3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://x.com/Damian_GL3/"><img src="https://img.shields.io/badge/x%20@damian_gl3-0D95E8?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/damian-gl/"><img src="https://img.shields.io/badge/linkedin%20@damian_gl3-0D95E8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <br>
@@ -30,13 +31,19 @@
 
 
 
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Damian-Git3&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Damian-Git3&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+</div>
+<br>
+<div align="center">
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damian-Git3&theme=radical&title_color=8E2DE2&text_color=fff)
+    
+</div>
+<br>
+
+
+
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=damian-git3" id="counter">
